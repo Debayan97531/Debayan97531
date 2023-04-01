@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debayan97531&show_icons=true&theme=dark&locale=en" alt="Debayan97531" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debayan97531theme=dark" alt="Debayan97531" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debayan97531theme=dark" alt="Debayan97531" /></p> -->
 
 [![@debayankumarghosh's Holopin board](https://holopin.me/debayankumarghosh)](https://holopin.io/@debayankumarghosh)
