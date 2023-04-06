@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Debayan Kumar Ghosh</h1>
-<h3 align="center">I am a full stack developer,DSA problem solver and  ML Enthusiast.</h3>
+<h3 align="center">I am a full stack web developer,DSA problem solver and  ML Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debayan97531&label=Profile%20views&color=0e75b6&style=plastic" alt="Debayan97531" /> </p>
 
